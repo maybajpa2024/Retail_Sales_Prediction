@@ -42,11 +42,8 @@ The Rossman Sales Prediction project involved extensive data analysis, feature e
 
 This project showcases the effective utilization of data analysis, feature engineering, and machine learning techniques to solve a real-world forecasting problem. The insights gained from the analysis provide valuable information for decision-making within the retail industry.
 *****************************************************************************************************************************************
-For complete project video explaination and to downoad the dataset: [Click here](https://drive.google.com/drive/folders/10aHn6j_AhC9KDR775VFZXWR2DOYj118q?usp=sharing)
 
-Feel free to explore the code and documentation provided in this repository to gain a deeper understanding of the project and replicate the results and if you have any questions or suggestions, please don't hesitate to reach out.
 
-You can check out my [Linkedin](https://www.linkedin.com/in/shahrukhahmad26) for more projects and information.
 
 Happy forecasting!
 *****************************************************************************************************************************************
